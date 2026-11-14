@@ -1,8 +1,8 @@
-
-- Step-by-step playback of each search operation.
-- Pause and resume controls during playback.
-- Dijkstra's algorithm implementation alongside BFS and A*.
-- Dedicated priority queue data structures for Dijkstra and A*.
-- Comprehensive results and metrics panel with exact path length, number of explored nodes, and precise runtime.
-- Edge case handling and user-facing reporting when no valid path exists.
-- Multi-map batch testing suite running across 20+ test grids.
+Project Requirements & Progress:
+[x] Step-by-step playback of each search operation.
+[x] Pause and resume controls during playback.
+[x] Dijkstra's algorithm implementation alongside BFS and A*.
+[x] Dedicated priority queue data structures for Dijkstra and A*.
+[x] Comprehensive results and metrics panel with exact path length, number of explored nodes, and precise runtime.
+[x] Edge case handling and user-facing reporting when no valid path exists.
+[x] Multi-map batch testing suite running across 20+ test grids.
